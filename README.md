@@ -22,4 +22,5 @@ inside geth node start miner
 open another terminal 
 
 > truffle migrate
+
 > npm run dev 
